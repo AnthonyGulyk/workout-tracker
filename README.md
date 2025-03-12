@@ -1,4 +1,4 @@
-#Workout Tracker (In the works)
+# Workout Tracker (In the works)
 
 Currently working on a workout tracker for myself. I want to track my lifts and view how I progress over time.
 
